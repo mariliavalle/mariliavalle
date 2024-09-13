@@ -1,24 +1,10 @@
 **Hi there** 👋
 
-Sou a Marília, uma entusiasta do desenvolvimento de software apaixonado por criar soluções funcionais com foco no usuário. Acredito na aprendizagem contínua e para isso .
+💻 Sou a Marília, uma entusiasta do desenvolvimento de software apaixonado por criar soluções funcionais com foco no usuário. Para isso, sigo na aprendizagem contínua e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
-🔧 Interesses:
+🌎 Tenho aprimorado meus conhecimentos em inglês, estando pronta para explorar ambientes internacionais e aproveitar recursos técnicos e acadêmicos valiosos.
 
-Java: Desenvolvimento robusto e escalável com Java. Sempre em busca de projetos desafiadores que me permitam expandir meu conhecimento em frameworks como Spring e Hibernate.
-QA (Quality Assurance): Fascinado por garantir a qualidade do software, estou mergulhando no mundo do QA para entender melhor as melhores práticas de testes e automação.
-UI/UX: Destaco-me na criação de interfaces amigáveis e experiências de usuário intuitivas. Acredito que uma boa experiência de usuário é essencial para o sucesso de qualquer aplicação.
+🚀 Interesses:
+Java | QA | UI/UX 
 
-<!--
-**mariliavalle/mariliavalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: Meu background em Direito (primeira graduação) me faz basear as decisões em dados e "provas" 🤪
