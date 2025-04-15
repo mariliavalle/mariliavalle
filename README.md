@@ -5,6 +5,6 @@
 🌎 Tenho aprimorado meus conhecimentos em inglês, estando pronta para explorar ambientes internacionais e aproveitar recursos técnicos e acadêmicos valiosos.
 
 🚀 Interesses:
-Java | QA | UI/UX 
+ QA | UI/UX | Java
 
 ⚡ Fun fact: Meu background em Direito (primeira graduação) me faz basear as decisões em dados e "provas" 🤪
