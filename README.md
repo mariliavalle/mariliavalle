@@ -5,6 +5,6 @@
 🌎 Tenho aprimorado meus conhecimentos em inglês, estando pronta para explorar ambientes internacionais e aproveitar recursos técnicos e acadêmicos valiosos.
 
 🚀 Interesses:
- QA | UI/UX | Java
+ QA | Cypress | Automation | Product Owner | UI/UX | Java
 
-⚡ Fun fact: Meu background em Direito (primeira graduação) me faz basear as decisões em dados e "provas" 🤪
+⚡ Fun fact: Meu background em Direito proporciona uma visão analítica e detalhista, características que aplico na identificação de cenários de teste e na busca por melhorias contínuas nos processos de qualidade.
